@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103821324920",
+    "project_id": "times-up-flutter-dev",
+    "storage_bucket": "times-up-flutter-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103821324920:android:5bbc674a76e953fc7b738d",
+        "android_client_info": {
+          "package_name": "com.jordyhers.times_up_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103821324920-e2rajmplq9vrr3hhrvpaga3scgbasv91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeljZU4w18XnzdXRLaXTFAbt2mhm35lN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103821324920-e2rajmplq9vrr3hhrvpaga3scgbasv91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
